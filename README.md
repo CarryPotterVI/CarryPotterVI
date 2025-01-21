@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CarryPotterVI
+- 👋 Hi, I’m Jack
 - 👀 I’m interested in Web, Fullstack & App Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning and improving
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me, Look into my Portfolio
 
 <!---
 CarryPotterVI/CarryPotterVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
